@@ -1,0 +1,5 @@
+__pycache__/
+Models/
+paddy-disease-classification/
+test.ipynb
+mlruns/
