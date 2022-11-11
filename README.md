@@ -1,1 +1,1 @@
-# Paddy-Classifier
+# Paddy-Classifier-Capstone
