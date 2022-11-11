@@ -1,0 +1,8 @@
+train:
+  rescale: 255.0
+  zoom_range: 0.2
+  shear_range: 0.2 
+  rotation_range: 30 
+  horizontal_flip: True 
+test:
+  rescale: 1
